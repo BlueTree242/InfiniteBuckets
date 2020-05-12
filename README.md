@@ -13,7 +13,7 @@ Installation:
 Commands:
 - /infbucket reload - reloads the config
 - /infbucket help - displays a help menu
-- /infbucket give <playername> <water|lava> - give said player a bucket of chosen type
+- /infbucket give <player> <water|lava> - give said player a bucket of chosen type
 
 Configuration:
 
