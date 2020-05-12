@@ -13,3 +13,9 @@ Installation:
 Configuration:
 
 You can use "%cost%" in the 'subtractMoney' message
+
+Permissions:
+
+- infbucket.reload: permission to reload the config
+- infbucket.help: permission to show the help menu
+- infbucket.give: permission to give the buckets
