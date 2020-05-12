@@ -10,6 +10,11 @@ Installation:
 - ???
 - Profit
 
+Commands:
+- /infbucket reload - reloads the config
+- /infbucket help - displays a help menu
+- /infbucket give <playername> <water|lava> - give said player a bucket of chosen type
+
 Configuration:
 
 You can use "%cost%" in the 'subtractMoney' message
