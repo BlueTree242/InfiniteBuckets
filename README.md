@@ -3,7 +3,7 @@ A spigot plugin that creates infinite buckets
 
 Installation:
 
-- Download the plugin on the spigot page
+- Download the plugin on the [spigot page](https://www.spigotmc.org/resources/infinite-buckets.78725/)
 - Stop the server
 - Put the plugin .jar in the plugins folder
 - Start the server
