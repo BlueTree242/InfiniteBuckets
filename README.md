@@ -1,7 +1,7 @@
 # InfiniteBuckets
 A spigot plugin that creates infinite buckets
 
-Installation:
+### Installation:
 
 - Download the plugin on the [spigot page](https://www.spigotmc.org/resources/infinite-buckets.78725/)
 - Stop the server
@@ -10,12 +10,12 @@ Installation:
 - ???
 - Profit
 
-Commands:
+### Commands:
 - /infbucket reload - reloads the config
 - /infbucket help - displays a help menu
 - /infbucket give (player) (water|lava) - give said player a bucket of chosen type
 
-Configuration:
+### Configuration:
 
 - You can use "%cost%" in the 'subtractMoney' and the lore messages
 - You can use "%permission%" in the 'notEnoughPermissions' message
@@ -25,7 +25,7 @@ Configuration:
 
 Once the config is reloaded with /infbucket reload every existing bucket will automatically be updated once the player holds the item.
 
-Permissions:
+### Permissions:
 
 - infbucket.*: all the permissions
 - infbucket.reload: permission to reload the config
