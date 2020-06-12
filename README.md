@@ -23,7 +23,7 @@ Configuration:
 - If a message is empty (like this '') then the message will not be sent
 - If cost is at 0 then no money will be removed and no message will be sent
 
-Once the config is reloaded with /infbucket reload. Then every existing bucket will automatically be updated once the player holds the item.
+Once the config is reloaded with /infbucket reload every existing bucket will automatically be updated once the player holds the item.
 
 Permissions:
 
