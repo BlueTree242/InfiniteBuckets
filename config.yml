@@ -1,0 +1,14 @@
+notEnoughPermissions: '&cYou do not have permission:&f %permission%'
+
+lavaCost: 100
+waterCost: 50
+
+waterDisplayName: '&bInfinite Water Bucket'
+lavaDisplayName: '&cInfinite Lava Bucket'
+waterLore: '&aCost: %cost%'
+lavaLore: '&aCost: %cost%'
+
+enchantGlint: true
+
+subtractMoney: '&c-%cost%$'
+notEnoughMoney: '&cNot enough money'

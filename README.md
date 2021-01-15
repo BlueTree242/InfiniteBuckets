@@ -1,3 +1,4 @@
+#### NOTE: Code is outdated and probably contains bad practices. DO NOT USE AS EXAMPLE
 # InfiniteBuckets
 A spigot plugin that creates infinite buckets
 

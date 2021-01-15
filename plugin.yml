@@ -1,0 +1,32 @@
+name: InfiniteBucket
+version: 1.2
+description: An infinite water/lava bucket plugin
+author: Supergoed1
+api-version: 1.15
+depend: [Vault]
+
+main: com.supergoed1.infbucket.Main
+commands:
+  infbucket:
+    description: Main command
+    usage: /infbucket help
+permissions:
+  infbucket.*:
+    default: false
+    description: Includes all permissions of this plugin
+    children:
+      infbucket.all: true
+  infbucket.all:
+    default: false
+    description: Includes all permissions of this plugin
+    children:
+      infbucket.reload: true
+      infbucket.use.*: true
+      infbucket.give: true
+      infbucket.help: true
+  infbucket.use.*:
+    default: false
+    description: Allows use of all the buckets
+    children:
+      infbucket.use.lava: true
+      infbucket.use.water: true
